@@ -1,3 +1,4 @@
+![Uploading 28468.jpg…]()
 # Installation
 
 ## Check if your device is supported
